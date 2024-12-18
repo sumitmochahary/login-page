@@ -24,7 +24,7 @@ h1{
 
 form{
     display: flex;
-    flex-flow: column;
+    flex-direction: column;
 }
 
 input{
