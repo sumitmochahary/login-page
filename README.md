@@ -62,10 +62,6 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 - **Sumit Mochahary**
 - [GitHub Profile](https://github.com/sumitmochahary)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 Thank you for checking out this project! If you found it helpful or have any feedback, feel free to open an issue or reach out.
