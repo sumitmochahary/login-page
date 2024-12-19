@@ -1,5 +1,3 @@
----
-
 # Login Page
 
 This repository contains a simple and elegant login page designed using HTML and CSS. The project serves as a practice exercise to enhance web development skills and create responsive and visually appealing user interfaces.
@@ -58,6 +56,4 @@ This project provided insights into:
 
 - **Sumit Mochahary**
 - [GitHub Profile](https://github.com/sumitmochahary)
-
----
 
