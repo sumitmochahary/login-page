@@ -1,3 +1,5 @@
+---
+
 # Login Page
 
 This repository contains a simple and elegant login page designed using HTML and CSS. The project serves as a practice exercise to enhance web development skills and create responsive and visually appealing user interfaces.
@@ -17,7 +19,7 @@ This repository contains a simple and elegant login page designed using HTML and
 
 ### Prerequisites
 
-To view and edit this project, you need a basic understanding of HTML and CSS and a text editor like [Visual Studio Code](https://code.visualstudio.com/) or [Notepad++](https://notepad-plus-plus.org/).
+To view and edit this project, you need a basic understanding of HTML and CSS and a text editor like [Visual Studio Code](https://code.visualstudio.com/).
 
 ### Installation
 
