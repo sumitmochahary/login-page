@@ -11,7 +11,7 @@ This repository contains a simple and elegant login page designed using HTML and
 
 ## Preview
 
-![Login Page Preview]([https://via.placeholder.com/800x400.png?text=Login+Page+Preview](https://github.com/sumitmochahary/login-page/blob/main/login-page-preview.png)
+![Login Page Preview](https://github.com/sumitmochahary/login-page/blob/main/login-page-preview.png)
 
 ## Getting Started
 
