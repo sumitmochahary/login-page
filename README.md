@@ -53,16 +53,10 @@ This project provided insights into:
 - Styling web pages using CSS, including layout, colors, and typography.
 - Creating a responsive design using media queries.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
-
 ## Author
 
 - **Sumit Mochahary**
 - [GitHub Profile](https://github.com/sumitmochahary)
 
 ---
-
-Thank you for checking out this project! If you found it helpful or have any feedback, feel free to open an issue or reach out.
 
