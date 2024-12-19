@@ -53,7 +53,6 @@ This project provided insights into:
 
 - Structuring HTML files for better readability and maintainability.
 - Styling web pages using CSS, including layout, colors, and typography.
-- Creating a responsive design using media queries.
 
 ## Author
 
